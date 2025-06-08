@@ -4,6 +4,8 @@ A real-time chat application built with the MERN stack, enabling seamless messag
 
 This project focuses on delivering a fast and responsive user experience with the help of **Shimmer UI** for beautiful loading effects and a clean component architecture.
 
+Live Preview - https://chatter-app-tcm.vercel.app
+
 ---
 
 ## 🚀 Features
