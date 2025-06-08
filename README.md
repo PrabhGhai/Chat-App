@@ -69,20 +69,3 @@ This project focuses on delivering a fast and responsive user experience with th
 
   ![bandicam 2025-06-08 21-12-58-477](https://github.com/user-attachments/assets/4664a706-6809-4e7f-8314-21262473f033)
 
-
-
-
-
-
-
-
-
----
-
-## 🔧 Getting Started
-
-### 📥 1. Clone the Repository
-
-```bash
-git clone https://github.com/PrabhGhai/chat-app.git
-cd chat-app
